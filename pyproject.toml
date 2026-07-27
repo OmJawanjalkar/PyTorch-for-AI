@@ -1,7 +1,7 @@
 [project]
 name = "pytorch-for-ai"
 version = "0.1.0"
-description = a hands-on teaching primer (tensors, autograd, nn.Module, data loading, training loops, saving/loading, GPU + multi-GPU training)."
+description = a " hands-on pytorch (tensors, autograd, nn.Module, data loading, training loops, saving/loading, GPU + multi-GPU training)."
 readme = "README.md"
 readme = "README.md"
 requires-python = ">=3.12"
